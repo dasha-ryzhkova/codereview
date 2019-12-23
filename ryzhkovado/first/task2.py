@@ -4,6 +4,7 @@
 
 
 
-text = ["fgdfgj", "ikrk", "Gdggdk", "Gdkfg", "dkvmr", "kdfkgk", "fggg"]
+text = [fgdfgj ikrk Gdggdk Gdkfg dkvmr kdfkgk fggg]
 import string
-new_list = text.string
+new_list = text.stri
+string.s
